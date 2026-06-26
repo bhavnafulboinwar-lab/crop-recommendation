@@ -1,0 +1,20 @@
+Crop-Recommendation-System
+│
+├── app.py
+├── requirements.txt
+│
+├── model
+│   ├── model.pkl
+│   ├── minmaxscaler.pkl
+│   └── standscaler.pkl
+│
+├── static
+│   ├── css
+│   │   └── style.css
+│   │
+│   └── images
+│       └── crop.png
+│
+└── templates
+    └── index.html
+    
